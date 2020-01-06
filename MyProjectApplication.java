@@ -47,6 +47,7 @@ public class MyProjectApplication {
 
 			switch(incarnationNumber)   {
 
+				// Generierung des Ausgabestrings im spezifischen Format für die Nummern 9 - 13 
 				case 9:
 					outputString = "{\"number\": " + incarnationNumber + ", \"name\": \" Christopher Eccleston\"}";
 					break;
